@@ -1,3 +1,4 @@
+# This project uses jotai+react to realize the expand-card project.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
